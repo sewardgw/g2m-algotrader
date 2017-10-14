@@ -1,0 +1,10 @@
+barSize, offset, high, low, open, close, period, securityKey, barSize, rsi
+_5_MINS, 0, 5, 5, 5, 5
+_5_MINS, 0, 4, 4, 4, 4
+_5_MINS, 0, 6, 6, 6, 6
+_5_MINS, 0, 3, 3, 3, 3
+_5_MINS, 0, 5, 5, 5, 5 
+_5_MINS, 0, 4, 4, 4, 4, 5, , _5_MINS, 44.4444444444
+_5_MINS, 0, 6, 6, 6, 6, 5, , _5_MINS, 60
+_5_MINS, 0, 3, 3, 3, 3, 5, , _5_MINS, 36.3636363636
+_5_MINS, 0, 5, 5, 5, 5, 5, , _5_MINS, 60

@@ -1,0 +1,5 @@
+symbol, exchange, securityType, currency, expiry, localSymbol, listingExchange, multiplier, right, strike, tradingClass 
+EUR,IDEALPRO,CASH,USD, , , , , , , 
+//AUD,IDEALPRO,CASH,USD, , , , , , , 
+GBP,IDEALPRO,CASH,USD, , , , , , , 
+//GBP,IDEALPRO,CASH,AUD, , , , , , , 

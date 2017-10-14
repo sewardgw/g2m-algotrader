@@ -1,0 +1,9 @@
+com/g2m/strategies/examples/DownloadHistoricalDataToFileForBacktest.class
+com/g2m/strategies/examples/DownloadHistoricalDataToFileForBacktest$1.class
+com/g2m/strategies/examples/EmptyStrategy.class
+com/g2m/strategies/examples/PMML_Example.class
+com/g2m/strategies/examples/PreloadHistoricalDataIntoCacheForLive.class
+com/g2m/strategies/examples/H20_Example.class
+com/g2m/strategies/examples/MACrossoverExample.class
+com/g2m/strategies/examples/EntityPersistStrategy.class
+com/g2m/strategies/examples/MovingAverage_Example.class

@@ -1,0 +1,9 @@
+barSize, offset, high, low, open, close, period, securityKey, barSize, movingAverage
+_5_MINS, 0, 10, 1, 4, 1
+_5_MINS, 0, 10, 1, 4, 2
+_5_MINS, 0, 10, 1, 4, 3
+_5_MINS, 0, 10, 1, 4, 4
+_5_MINS, 0, 10, 1, 4, 5, 5, , _5_MINS, 3
+_5_MINS, 0, 10, 1, 4, 6, 5, , _5_MINS, 4
+_5_MINS, 0, 10, 1, 4, 7, 5, , _5_MINS, 5
+_5_MINS, 0, 10, 1, 4, 8, 5, , _5_MINS, 6

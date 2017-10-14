@@ -1,0 +1,8 @@
+/Users/grantseward/GitHub/g2m-algotrader/example-strategies/src/main/java/com/g2m/strategies/PreloadHistoricalDataIntoCacheForLive.java
+/Users/grantseward/GitHub/g2m-algotrader/example-strategies/src/main/java/com/g2m/strategies/H20_Example.java
+/Users/grantseward/GitHub/g2m-algotrader/example-strategies/src/main/java/com/g2m/strategies/MovingAverage_Example.java
+/Users/grantseward/GitHub/g2m-algotrader/example-strategies/src/main/java/com/g2m/strategies/PMML_Example.java
+/Users/grantseward/GitHub/g2m-algotrader/example-strategies/src/main/java/com/g2m/strategies/MACrossoverExample.java
+/Users/grantseward/GitHub/g2m-algotrader/example-strategies/src/main/java/com/g2m/strategies/EmptyStrategy.java
+/Users/grantseward/GitHub/g2m-algotrader/example-strategies/src/main/java/com/g2m/strategies/EntityPersistStrategy.java
+/Users/grantseward/GitHub/g2m-algotrader/example-strategies/src/main/java/com/g2m/strategies/DownloadHistoricalDataToFileForBacktest.java

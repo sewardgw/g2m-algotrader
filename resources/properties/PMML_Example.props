@@ -1,0 +1,16 @@
+#Sat Oct 31 12:30:17 EDT 2015
+lastAnalyticsTime=0
+baseShares=80000
+ma9PriceThresh=0.00
+numVars=3
+numBarsForLastTradeToClosePosition=20
+startingBalance=0.0
+automatedTuning=false
+closeThreshold=0.002
+ma9ma20Thresh=6.5E-4
+ma50ma200thresh=.001
+allowTrades=false
+numBarsForLastTradeToOpenPosition=120
+windowForMACrosses=30
+tickCnt=0
+orgName=TEST.ORG

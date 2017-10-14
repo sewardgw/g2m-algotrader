@@ -1,0 +1,16 @@
+/Users/grantseward/GitHub/g2m-algotrader/historical-data-loader/src/main/java/com/g2m/services/historicaldataloader/HistoricalRequest.java
+/Users/grantseward/GitHub/g2m-algotrader/historical-data-loader/src/main/java/com/g2m/services/historicaldataloader/RequestRunner.java
+/Users/grantseward/GitHub/g2m-algotrader/historical-data-loader/src/main/java/com/g2m/services/historicaldataloader/DataLoaderEventHandler.java
+/Users/grantseward/GitHub/g2m-algotrader/historical-data-loader/src/main/java/com/g2m/services/historicaldataloader/RequestRules.java
+/Users/grantseward/GitHub/g2m-algotrader/historical-data-loader/src/main/java/com/g2m/services/historicaldataloader/SimpleDataLoaderParameters.java
+/Users/grantseward/GitHub/g2m-algotrader/historical-data-loader/src/main/java/com/g2m/services/historicaldataloader/mains/Main1.java
+/Users/grantseward/GitHub/g2m-algotrader/historical-data-loader/src/main/java/com/g2m/services/historicaldataloader/DefaultDataLoaderEventHandler.java
+/Users/grantseward/GitHub/g2m-algotrader/historical-data-loader/src/main/java/com/g2m/services/historicaldataloader/mains/Main2.java
+/Users/grantseward/GitHub/g2m-algotrader/historical-data-loader/src/main/java/com/g2m/services/historicaldataloader/ValidBarSizesForDurations.java
+/Users/grantseward/GitHub/g2m-algotrader/historical-data-loader/src/main/java/com/g2m/services/historicalFileFromTicks/TickFormatter.java
+/Users/grantseward/GitHub/g2m-algotrader/historical-data-loader/src/main/java/com/g2m/services/historicaldataloader/Constants.java
+/Users/grantseward/GitHub/g2m-algotrader/historical-data-loader/src/main/java/com/g2m/services/historicaldataloader/HistoricalEntityTypes.java
+/Users/grantseward/GitHub/g2m-algotrader/historical-data-loader/src/main/java/com/g2m/services/historicalFileFromTicks/mains/Main1.java
+/Users/grantseward/GitHub/g2m-algotrader/historical-data-loader/src/main/java/com/g2m/services/historicaldataloader/HistoricalDataLoader.java
+/Users/grantseward/GitHub/g2m-algotrader/historical-data-loader/src/main/java/com/g2m/services/historicaldataloader/DurationWithUnit.java
+/Users/grantseward/GitHub/g2m-algotrader/historical-data-loader/src/main/java/com/g2m/services/historicaldataloader/RequestRunnerEventHandler.java

@@ -1,0 +1,16 @@
+com/g2m/services/historicalFileFromTicks/TickFormatter.class
+com/g2m/services/historicaldataloader/DefaultDataLoaderEventHandler.class
+com/g2m/services/historicalFileFromTicks/mains/Main1.class
+com/g2m/services/historicaldataloader/RequestRunner.class
+com/g2m/services/historicaldataloader/HistoricalEntityTypes.class
+com/g2m/services/historicaldataloader/DurationWithUnit.class
+com/g2m/services/historicaldataloader/HistoricalDataLoader.class
+com/g2m/services/historicaldataloader/RequestRunnerEventHandler.class
+com/g2m/services/historicaldataloader/DataLoaderEventHandler.class
+com/g2m/services/historicaldataloader/RequestRules.class
+com/g2m/services/historicaldataloader/ValidBarSizesForDurations.class
+com/g2m/services/historicaldataloader/HistoricalRequest.class
+com/g2m/services/historicaldataloader/SimpleDataLoaderParameters.class
+com/g2m/services/historicaldataloader/Constants.class
+com/g2m/services/historicaldataloader/mains/Main2.class
+com/g2m/services/historicaldataloader/mains/Main1.class
