@@ -10,7 +10,7 @@ Algo trading system that is integrated with Interactive Brokers (IB).
 
 ### Getting up and running
 
-To build a strategy, simply extend the Strategy class (and if running as a standalone add the main method
+To build a strategy, simply extend the Strategy class (and if running as a standalone app add the main method):
 
 ```java
 public class ShortMomentumLive extends Strategy {
