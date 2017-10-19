@@ -55,7 +55,9 @@ protected void run() {
 }
 ```
 
-Thats all there is to it. Tick will be pushed to the `tickReceived` method and bars are pushed to the `barReceived` method. To create a variable (RSI, MovingAverage, etc.) simply envoke the appropriate class within the `tickReceived` or `barReceived` function. The variables are managed for you by the strategy class which exposes the getVariables method. Because it is crucial to be able to compare historical variables (i.e. the current moving average vs the moving average from 2, 5, N periods ago) the getVariables function allows you to pull the variables from N periods ago based off of a certain point in time.
+
+Thats all there is to it. Ticks will be pushed to the `tickReceived` method and bars are pushed to the `barReceived` method. To create a variable (RSI, MovingAverage, etc.) simply envoke the appropriate class within the `tickReceived` or `barReceived` function. The variables are managed for you by the strategy class which exposes the getVariables method. Because it is crucial to be able to compare historical variables (i.e. the current moving average vs the moving average from 2, 5, N periods ago) the getVariables function allows you to pull the variables from N periods ago based off of a certain point in time.
+
 
 ```java
 // This creates or retrieves the most recent moving average for the tick that was creat
